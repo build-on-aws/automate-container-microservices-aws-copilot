@@ -1,11 +1,7 @@
-## My Project
+## Build Efficient CI/CD Pipelines for Connected Microservices in Under an Hour using AWS Copilot 
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Sample code repo to Build Efficient CI/CD Pipelines for Connected Microservices in Under an Hour using AWS Copilot. It forms the base of the following tutorials:
+* [Build CI/CD Pipelines For Connected Microservices using Copilot](https://buildon.aws/tutorials/Build-ci-cd-pipelines-for-connected-microservices-using-copilot)
 
 ## Security
 
